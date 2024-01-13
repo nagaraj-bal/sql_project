@@ -1,2 +1,2 @@
 # sql_project
-Developing auction strategy for new ipl franchies
+Developing auction strategy for new ipl franchise
